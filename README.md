@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Alaa Shaban
+#### Software Engineer
+![Software Engineer](https://github.com/AlaaShaban29)
 
-<!--
-**AlaaShaban29/AlaaShaban29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student with a passion for creating Front-End webpages using React framework, with some knowledge about Back-End and Object-Oriented Programming
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / jQuery / Bootstrap /PROBLEM SOLVING / Database/PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Next.js && back end staff 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: https://www.linkedin.com/in/alaa-shaban-42b662239/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AlaaShaban29)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alaa-shaban-42b662239//)  
+
