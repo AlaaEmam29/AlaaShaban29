@@ -1,10 +1,8 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Alaa Shaban<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Software Engineer, Full Stack Developer (React JS,Vue JS - Django)
  and all the technology behind it...</h3>
-
-<ul style="list-style: none;">
-<li>I’m looking to collaborate projects that make use of <strong> JavaScript, HTML, CSS, Translations</strong></li>
-</ul>
+ 
+ 
 <div align="center">
 <h3>Contact Me </h3>
 <a href="https://github.com/AlaaShaban29" target="_blank"><img src="https://img.shields.io/badge/-Alaa_Shaban-black?logo=github&style=flat-square" alt="github"/></a>
@@ -58,8 +56,7 @@
 <h3>IDE & Tools</h3>
 
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://img.shields.io/badge/-phpstorm-white?logo=phpstorm&logoColor=000000&style=for-the-badge" alt="phpstorm"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-vs_code-white?logo=visual-studio-code&logoColor=0098FF
-&style=for-the-badge" alt="vscode"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-visual%20sudio%20code-white?logo=visual-studio-code&logoColor=0098FF&style=for-the-badge" alt="vscode"/></a>
 <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://img.shields.io/badge/-phpmyadmin-white?logo=phpmyadmin&logoColor=6C78AF&style=for-the-badge" alt="phpmyadmin"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-postman-white?logo=postman&logoColor=FF6C37&style=for-the-badge" alt="postman"/></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/-windows-white?logo=windows&logoColor=0078D6&style=for-the-badge" alt="windows"/></a>
