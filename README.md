@@ -38,6 +38,8 @@
 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/-mariadb-white?logo=mariadb&logoColor=003545&style=for-the-badge" alt="mariadb"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql&logoColor=003545&style=for-the-badge" alt="postgresql"/></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/-sqlite-white?logo=sqlite&logoColor=003545&style=for-the-badge" alt="sqlite"/></a>
 
 
 <h3>Version Control & CI/CD</h3>
