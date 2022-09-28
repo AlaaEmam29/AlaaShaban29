@@ -4,7 +4,6 @@
 
 <ul style="list-style: none;">
 <li>I’m looking to collaborate projects that make use of <strong> JavaScript, HTML, CSS, Translations</strong></li>
-<li><strong>Let's Rock n' Roll and Code, baby.</strong></li>
 </ul>
 <div align="center">
 <h3>Contact Me </h3>
@@ -59,7 +58,7 @@
 <h3>IDE & Tools</h3>
 
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://img.shields.io/badge/-phpstorm-white?logo=phpstorm&logoColor=000000&style=for-the-badge" alt="phpstorm"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-vs_code-white?logo=visual-studio-code&logoColor=0098FF
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-vscode-white?logo=vscode&logoColor=0098FF
 &style=for-the-badge" alt="vscode"/></a>
 <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://img.shields.io/badge/-phpmyadmin-white?logo=phpmyadmin&logoColor=6C78AF&style=for-the-badge" alt="phpmyadmin"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-postman-white?logo=postman&logoColor=FF6C37&style=for-the-badge" alt="postman"/></a>
