@@ -3,7 +3,6 @@
  and all the technology behind it...</h3>
 
 <ul style="list-style: none;">
-<li> I’m currently learning ( Nuxt / Tailwind CSS/Back End)</li>
 <li>I’m looking to collaborate projects that make use of <strong> JavaScript, HTML, CSS, Translations</strong></li>
 <li><strong>Let's Rock n' Roll and Code, baby.</strong></li>
 </ul>
