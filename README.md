@@ -38,11 +38,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql&logoColor=003545&style=for-the-badge" alt="postgresql"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/-sqlite-white?logo=sqlite&logoColor=003545&style=for-the-badge" alt="sqlite"/></a>
 
-
-<h3>Version Control & CI/CD</h3>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-github-white?logo=github&logoColor=181717&style=for-the-badge" alt="github"/></a>
-
+ 
 <h3>Back End</h3>
 
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/-django-white?logo=django&logoColor=0C4B33&style=for-the-badge" alt="django"/></a>
