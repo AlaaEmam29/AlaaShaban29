@@ -1,5 +1,5 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Alaa Shaban<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Software Engineer, Full Stack Developer (React JS - Django)
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Software Engineer, Front End Developer (React JS)
  and all the technology behind it...</h3>
  
  
