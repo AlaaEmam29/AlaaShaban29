@@ -2,7 +2,7 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Software Engineer, Front End Developer (React JS)
  and all the technology behind it...</h3>
 <div align="center">
-  <img width="auto" height="auto" src=img/cool.gif>
+  <img width="1000" height="auto" src=img/cool.gif>
 </div>
 
 
