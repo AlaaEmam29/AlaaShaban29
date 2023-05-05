@@ -1,10 +1,11 @@
 <h1 style="text-align: center;margin-bottom: 5px;">👋,  I'm Alaa! 💠</h1>
-<div align="center">
-  <img width="720" height="auto" src=img/cool.gif>
-</div>
-
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Software Engineer, Front End Developer (React JS)
  and all the technology behind it...</h3>
+<div align="center">
+  <img width="auto" height="auto" src=img/cool.gif>
+</div>
+
+
  
  
 <div align="center">
